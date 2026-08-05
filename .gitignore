@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+capracare_env/
+__pycache__/
+*.pyc
+runs/
+runs.rar
+runs(classification novelty).rar
+CapraCare-1/
+CapraCare_Classification/
+CapraCare_Classification_Final/
+*.onnx
